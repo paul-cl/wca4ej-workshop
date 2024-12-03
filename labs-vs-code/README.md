@@ -1,6 +1,6 @@
 # Installation guide for WCA on VSCode
 
-이 문서는 ***Watson Code Assistant For Enterprise Java (WCA4EJ)***를 실행하는 데 필요한 소프트웨어 도구를 IDE VSCode에 설치하는 방법에 대한 정보를 제공합니다.
+이 문서는 **Watson Code Assistant For Enterprise Java (WCA4EJ)**를 실행하는 데 필요한 소프트웨어 도구를 IDE VSCode에 설치하는 방법에 대한 정보를 제공합니다.
 
 Last updated: Dec 2nd, 2024
 
@@ -106,11 +106,11 @@ VSCode Extension에서 watsonx Code Assistant for Enterprise Java Applications �
 
 ![WCA4EJ Extensions](../images/vscode_extension_for_wca4ej.png)
 
-#### After installing the extension from **Step 5**,
+#### **Step 5** 를 마치시고 나서
 
-- VScode의 왼쪽에 watsonx code assistant 를 선택하고 "Login with your API key"를 선택 해주세요. 
+- VScode의 왼쪽에 watsonx code assistant 를 선택하고 **Login with your API key**를 선택 해주세요. 
 
-![screenshot](../images/login_into_wca.png){width=250}
+![screenshot](../images/login_into_wca.png)
 
 - 팝업창이 나타나면 **Allow**를 선택합니다.
 
@@ -131,6 +131,6 @@ VSCode Extension에서 watsonx Code Assistant for Enterprise Java Applications �
 
 ### 7. Start Using WCA4EJ
 
-**watsonx Code Assistant**  탭으로 이동하여 WCA4EJ의 채팅 창을 열고 모델과 대화함으로써 API 키가 올바르게 설정되었는지 확인할 수 있습니다."
+**watsonx Code Assistant**  탭으로 이동하여 WCA4EJ의 채팅 창을 열고 모델과 대화함으로써 API 키가 올바르게 설정되었는지 확인할 수 있습니다.
 
 ![screenshot](../images/VSC_chat_with_model.png)

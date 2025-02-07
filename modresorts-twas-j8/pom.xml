@@ -56,6 +56,13 @@
       <version>5.3.20</version>
       <scope>test</scope>
     </dependency>
+      <!-- unit test-->
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>4.0.1</version> <!-- 원하는 버전으로 수정 가능 -->
+      <scope>provided</scope>
+    </dependency>
   </dependencies>
   <build>
     <plugins>

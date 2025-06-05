@@ -112,6 +112,7 @@ ENV/
 env.bak/
 venv.bak/
 labs-api/lab2-python-to-java-migration/java-todo-app/
+labs-api/lab2-python-to-java-migration/__pycache__/
 
 # Spyder project settings
 .spyderproject

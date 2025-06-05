@@ -113,6 +113,8 @@ env.bak/
 venv.bak/
 labs-api/lab2-python-to-java-migration/java-todo-app/
 labs-api/lab2-python-to-java-migration/__pycache__/
+labs-api/lab1-api-basics/__pycache__/
+labs-api/lab1-api-basics/.pytest_cache/
 
 # Spyder project settings
 .spyderproject
